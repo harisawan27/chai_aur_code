@@ -290,7 +290,3 @@ boardroom-ai/
 ```
 
 ---
-
-## 📄 License
-
-MIT License — built for the Kaggle 5-Day AI Agents Hackathon.
