@@ -12,7 +12,6 @@ pinned: false
 
 Boardroom AI is a multi-agent executive decision engine that simulates a virtual board meeting where 6 specialized AI agents analyze your business or life decision from different expert perspectives, debate it, vote on it, and produce a structured executive decision report.
 
-Built for the **Kaggle 5-Day AI Agents Hackathon** — Agents for Business track.
 
 ---
 
